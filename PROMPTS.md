@@ -44,13 +44,20 @@ Describe what you SEE, not how to code it. Then:
 You can also drag a screenshot into the chat and say what's wrong.
 Going the wrong way? Press **Esc** to stop it. Then rerun all the tests.
 
-## Round 4: Memory (20:05)
-1. `Add to CLAUDE.md: every button must be big enough to tap on a phone.`
-2. `/memory`: open the file and see the new line.
-3. `/context`: how full is the desk? Then `/clear`.
-4. In the clean chat, ask for a new button. Does the rule still hold?
+## Round 4: Memory, nothing to type (20:05)
+A short talk. What to remember:
+- General preferences for every project ("explain in Hebrew, I'm a beginner") go in your personal `~/.claude/CLAUDE.md`.
+- Rules for this project go in this folder's `CLAUDE.md`. What you're building lives in `docs/`.
+- The chat disappears with `/clear`. Files stay.
 
-**Habits 4 and 5: an important rule goes in CLAUDE.md. New task = `/clear`.**
+Working from another computer? The project folder travels if it's in the cloud (GitHub, OneDrive,
+Google Drive). Your personal `CLAUDE.md`, Claude's auto memory and your chat history stay on the
+machine. On the other computer, start a new chat:
+
+    Read docs/PLAN.md and CHANGELOG.md and tell me where we are.
+
+**Habit 4: general or project-specific? Decide before you save it.**
+Use the rest of the round to finish running your R1-R3 tests.
 
 ## Round 5: The wow moment (20:15)
 
