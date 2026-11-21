@@ -25,5 +25,6 @@ Then ask in a chat: "What do I have this week?"
 That is MCP: a standard plug that lets Claude use another service.
 
 ## ★★★ A second project, on your own
-Make a new empty folder, write a new IDEA.md, and go through every round
-without the slides. That's the real test.
+Make a new folder and copy in `CLAUDE.md`, `CHANGELOG.md` and the `docs/` folder (emptied).
+Write "In my words", then go through every round without the slides. That's the real test,
+and it's how you'll start every project from now on.
