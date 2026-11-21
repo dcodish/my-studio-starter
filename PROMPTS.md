@@ -31,7 +31,7 @@ Switch to **Plan** mode and paste:
 
 Read both files (2 minutes). Ask about anything you don't understand. Then:
 
-    Build steps 1-3 of docs/PLAN.md.
+    Build all the steps in docs/PLAN.md for R1-R3.
 
 Open index.html and run every acceptance test yourself. Write pass or fail in the Status column.
 **Habit 3: check against the acceptance tests, not by feel.**
