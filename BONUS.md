@@ -1,4 +1,5 @@
-# Bonus missions (after 20:55, for whoever stays)
+# Open work hour (21:00–22:00): keep building, with help
+Keep improving your own project, or pick a mission below. David stays in class to help.
 Type `/clear` before each new mission. Same habits: one small request, then check it yourself.
 
 ## ★ Sound and motion

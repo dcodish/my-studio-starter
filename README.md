@@ -13,5 +13,5 @@ Extract it, then in the Claude app open the **Code** tab and pick the folder
 | `IDEA.md` | Your brief: what you build, for whom, the 3 must-haves. Fill it in round 1. |
 | `IDEAS.md` | The idea menu. |
 | `PROMPTS.md` | The prompt for each round. |
-| `BONUS.md` | Bonus missions for after 20:45. |
+| `BONUS.md` | Ideas for the open work hour (21:00–22:00). |
 | `CLAUDE.md` | Project rules Claude reads at the start of every chat. |

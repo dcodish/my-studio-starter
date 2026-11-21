@@ -57,4 +57,4 @@ window narrow like a phone and check. Works? `/clear`, then the next one.
 Open the page, click **Share**, choose the public link. Open the link on your
 phone and check it (habit 3 again). Then send it to the WhatsApp group.
 
-Stayed after 20:55? See BONUS.md.
+Staying for the open work hour (21:00–22:00)? Keep building, or pick a mission from BONUS.md.
