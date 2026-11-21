@@ -1,4 +1,4 @@
-# Bonus missions (after 20:45, for whoever stays)
+# Bonus missions (after 20:55, for whoever stays)
 Type `/clear` before each new mission. Same habits: one small request, then check it yourself.
 
 ## ★ Sound and motion
