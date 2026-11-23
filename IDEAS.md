@@ -29,5 +29,11 @@ Difficulty: ★ easy · ★★ a bit more
 10. **Link-in-bio page ★**: your personal page with links, an animated background and
     a short "about me".
 
+## Want Claude to use your own data?
+Connect a service first: Claude app, Settings → Connectors (Google Calendar, Drive...).
+Then Claude can read it while it builds, e.g. your exam dates for #8 or photos from a Drive
+folder for #2 and #4. Say so in "In my words". The page you publish does NOT get access to
+your Calendar or Drive: Claude copies what it needs into the page.
+
 ## Your own idea?
 Great. Keep it to one page, with no login and no database, and something you can show in 30 minutes.

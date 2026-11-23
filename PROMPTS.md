@@ -13,6 +13,8 @@ Watch what it does before it answers: it reads the files first.
 ## Round 1: Requirements (19:25)
 1. Pick an idea from IDEAS.md (one minute).
 2. Open `docs/REQUIREMENTS.md` and write the 3 lines under **In my words** yourself.
+   Want Claude to use your Calendar or Drive? Connect it now (Settings → Connectors) and
+   say so in **In my words**.
 3. Paste:
 
        Read the "In my words" section of docs/REQUIREMENTS.md. Ask me up to 3 questions,

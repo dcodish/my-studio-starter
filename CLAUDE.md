@@ -36,6 +36,9 @@ These files are the source of truth. Read them before changing anything, and kee
 - No frameworks, no build step, no npm, no API keys, no paid services.
 - No images or files from the internet. Draw graphics with SVG, `<canvas>`, CSS or emoji.
   If the user picks their own photo, read it in the browser (FileReader); never upload it anywhere.
+- If the student connected a service (Calendar, Drive...), you may read it with the connector and
+  copy what is needed (dates, a few photos) into `index.html`. The page itself never calls that
+  service, and nothing private goes in without the student's OK.
 - Must work by double-clicking `index.html`, and look good on a phone.
 - Hebrew text is right-to-left (`dir="rtl"`); English is fine too.
 - If the page saves data, use localStorage only, and describe it in `docs/ARCHITECTURE.md`.
